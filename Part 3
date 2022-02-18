@@ -1,0 +1,33 @@
+ 
+ ​<!DOCTYPE html​> 
+ ​<​html​ ​lang​="​en​"​> 
+ ​<​head​> 
+ ​    ​<​meta​ ​charset​="​UTF-8​"​> 
+ ​    ​<​meta​ ​http-equiv​="​X-UA-Compatible​" ​content​="​IE=edge​"​> 
+ ​    ​<​meta​ ​name​="​viewport​" ​content​="​width=device-width, initial-scale=1.0​"​> 
+ ​    ​<​title​>​Html Project 2 Part Three​</​title​> 
+ ​</​head​> 
+ ​<​body​> 
+ ​<​header​> 
+ ​    ​<​h1​>​Welcome Back!​</​h1​> 
+ ​</​header​> 
+ ​<​section​> 
+ ​    ​<​h2​>​Here is a great video from YouTube!​</​h2​> 
+ ​    ​<​iframe​ ​width​="​180​" ​height​="​180​" 
+ ​    ​src​="​https://www.youtube.com/embed/DLzxrzFCyOs​"​> 
+ ​    ​</​iframe​> 
+  
+ ​    ​<​h2​>​Here's some music from Spotify!​</​h2​> 
+ ​    ​<​iframe​ ​src​="​https://open.spotify.com/embed/track/5Fli1xRi01bvCjsZvKWro0​" ​width​="​300​" ​height​="​80​" ​frameborder​="​0​" ​allowtransparency​="​true​" ​allow​="​encrypted-media​"​>​</​iframe​> 
+ ​</​section​> 
+ ​<​footer​> 
+ ​    ​<​br​> 
+ ​    ​<​br​> 
+ ​    ​<​br​> 
+ ​    ​<​p​>​Want to stay informed? Put your info here!​</​p​> 
+ ​    ​<​label​ ​for​="​email​"​>​Email:​</​label​> 
+ ​    ​<​input​ ​type​="​email​" ​name​="​email​" ​id​="​email​"​> 
+ ​    ​<​input​ ​type​="​submit​" ​value​="​Join Our Mailing List!​"​> 
+ ​</​footer​> 
+ ​</​body​> 
+ ​</​html​>
